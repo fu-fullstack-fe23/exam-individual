@@ -4,7 +4,7 @@
 
 ### Instruktioner
 
-Ni får nu fria tyglar att utveckla precis vad ni vill!
+Ni får nu fria tyglar att utveckla precis vad ni vill! Detta projekt kommer inte ha någon avsatt handledningstid, mer än om ni skulle vilja bolla idéer fredagen den 1/11 9:00-12:00. Ni förväntas arbeta på detta projekt samtidigt som ni aktivt deltar i era ordinarie studier. Se därför till att inte bygga någonting för stort!
 
 ### Krav 
 
@@ -17,7 +17,7 @@ Ditt projekt skall för godkänt betyg uppfylla följande:
 * Användande av interfaces och/eller types
 * Inga any-typer får förekomma, eventuella förekomster måste vara väl motiverade
 * Måste se visuellt acceptabelt ut
-* Det måste finnas ett användarflöde, dv. man ska kunna göra någonting på sidan (att bara ladda hem data från ett api och visa på skärmen är INTE tillräckligt)
+* Det måste finnas ett användarflöde, dvs. man ska kunna göra någonting på sidan (att bara ladda hem data från ett api och visa på skärmen är INTE tillräckligt)
 
 ### Förslag
 
